@@ -1,0 +1,5 @@
+name = input("Enter a name :")
+age = input(" Enter a age :")
+print("my name ", name , "age is ",age)
+print(name,age)
+print("my age is {} and my name is {}".format(age,name ))
